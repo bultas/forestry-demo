@@ -13,3 +13,6 @@ menu:
     weight: 2
 
 ---
+**Hello world**
+
+How this could be done?
